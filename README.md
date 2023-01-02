@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tthayza
-- 👀 I’m interested in Front-End world 
-- 🌱 I’m currently learning technologies for web development
+- 👀 I'm interested in solving problems using technology
+- 🌱 I’m currently learning web development
 - 📫 You can contact me via thayzaoliveira4@gmail.com
 
 <!---
