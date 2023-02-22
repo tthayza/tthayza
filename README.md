@@ -1,4 +1,4 @@
-<h1 align="center"  height="30px" >Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"height="25px">  I'm Thayza Oliveira </h1> 
+<h1 align="center"  height="30px" >Hi there 👋🏻 I'm Thayza Oliveira </h1> 
 
 <br>
 
