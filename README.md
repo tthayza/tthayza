@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthayza&show_icons=true&layout=compact&theme=dark"  width="380px" align="right" alt="Computador">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthayza&show_icons=true&layout=compact&theme=dark"  width="380px" align="right" alt="Computador"> -->
 
 <p align="left">
   
