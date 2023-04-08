@@ -15,7 +15,7 @@
     </p>
 </div>
      <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthayza&show_icons=true&layout=compact&theme=dracula"  width="400px" align="right" alt="Computador"> </div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tthayza&show_icons=true&layout=compact&theme=dracula"  width="250px" align="right" alt="Computador"> </div>
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=tthayza&theme=dracula&border_radius=5.2)](https://git.io/streak-stats)
 
