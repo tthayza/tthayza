@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <p align="justify"> I'm a technology enthusiast seeking opportunities as a Software Developer. My journey into programming began as a discovery but quickly turned into a passion that drives me to enhance my skills every day. Along this path, I gained experience in object-oriented programming and actively participated in programming events to strengthen my web development skills. These experiences reinforced my commitment to continuous learning and sharing knowledge with the community.
+    <p align="justify"> Passionate about building digital solutions with web technologies and currently pursuing a degree in Information Technology. My journey into programming began as a discovery but quickly turned into a passion that drives me to enhance my skills every day. Along this path, I gained experience in programming and actively participated in programming events to strengthen my web development skills. These experiences reinforced my commitment to continuous learning and sharing knowledge with the community.
     </p>
 </div>
 
@@ -26,7 +26,10 @@
         📢  Actively participated in programming events to consolidate my skills, continuously seeking challenges in the technology field.
       </li>
       <li style="list-style:none">
-        📚  Currently, I'm focused on the Santander Coders program, specializing in Front-End development, where I'm enhancing my knowledge of Angular with the goal of creating interactive and innovative web experiences.
+        📚  Participant in the 2023 Santander Coders program, specializing in front-end development with Angular.
+      </li>
+      <li style="list-style:none">
+        👩🏻‍💻  Currently, I'm focused on the Training Program at FCamara, where I'm working as a Trainee to become a full-stack developer.
       </li>
       <li style="list-style:none">
         🗣  You can reach out to me via my <a href="https://www.linkedin.com/in/tthayza-oliveira/">LinkedIn profile</a> or through email at thayzaoliveira4@gmail.com.
@@ -53,16 +56,19 @@
 
 ### Main skills:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Studying in this moment:
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
