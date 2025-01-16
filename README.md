@@ -3,7 +3,7 @@
 <div align="center">
   <div  >
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=700&color=F7B931&center=true&vCenter=true&random=false&width=435&lines=Nice+to+have+you+here!;I'm+Thayza;Web+Developer;Let's+code+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=700&color=F7B931&center=true&vCenter=true&random=false&width=435&lines=Nice+to+have+you+here!;I'm+Thayza;Pre+Sales+In+Finance;Let's+work+together!)](https://git.io/typing-svg)
 
   </div>
   <p align=center>
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <p align="justify"> Passionate about building digital solutions with web technologies and currently pursuing a degree in Information Technology. My journey into programming began as a discovery but quickly turned into a passion that drives me to enhance my skills every day. Along this path, I gained experience in programming and actively participated in programming events to strengthen my web development skills. These experiences reinforced my commitment to continuous learning and sharing knowledge with the community.
+    <p align="justify"> I am a Pre-Sales Analyst focused on the financial market, where I collaborate in developing innovative and strategic technology solutions for industry players. My journey includes two years of experience in front-end development using frameworks like Angular and React, along with basic knowledge of back-end development with .NET and Entity Framework. Currently, I am pursuing a degree in Information Technology, expanding my expertise in agile methodologies with a focus on the Scrum framework.
     </p>
 </div>
 
@@ -29,7 +29,7 @@
         📚  Participant in the 2023 Santander Coders program, specializing in front-end development with Angular.
       </li>
       <li style="list-style:none">
-        👩🏻‍💻  Currently, I'm focused on the Training Program at FCamara, where I'm working as a Trainee to become a full-stack developer.
+        👩🏻‍💻  Currently, I'm focused on the Training Program at FCamara, where I'm working as a Pre Sales Analyst.
       </li>
       <li style="list-style:none">
         🗣  You can reach out to me via my <a href="https://www.linkedin.com/in/tthayza-oliveira/">LinkedIn profile</a> or through email at thayzaoliveira4@gmail.com.
